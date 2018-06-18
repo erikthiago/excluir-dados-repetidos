@@ -15,7 +15,7 @@ em cascata.
     ---BaseRepository = Classe responsável pelas operações no banco de dados<br/>
     ---IBaseRepository = Interface responsável por determinar o mínimo necessário para o repositório<br/>
     ---IQuery = Interface para ser implementada nas classes de queries para reuso de código<br/>
-   --DQLConnections<br/>
+   --SQLConnections<br/>
     ---DapperDBCOnnection = Classe responsável por conectar no banco e gerenciar as conexões<br/>
    --appsettings.json = arquivo que contém a connectionstring para o banco de dados<br/>
    --Form1 = Formulário (View)<br/>
