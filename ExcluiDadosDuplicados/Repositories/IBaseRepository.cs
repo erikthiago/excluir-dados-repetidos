@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace ExcluiDadosDuplicados.Repositories
 {
+    // Interface responsável por determinar o mínimo necessário para o repositório
     public interface IBaseRepository : IDisposable
     {
         /// <summary>
