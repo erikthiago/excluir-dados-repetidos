@@ -70,6 +70,7 @@ namespace ExcluiDadosDuplicados
 
                     dadoDuplicado1 = entity1.Prop4;
                     dadoDuplicado2 = entity1.Prop5;
+                    // Altera a cor do texto para vermelho para sinalizar a exlusão do registro
                     lvDados.Items[i].ForeColor = Color.Red;
                 }
             }
