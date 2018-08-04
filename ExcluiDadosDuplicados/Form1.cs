@@ -83,13 +83,13 @@ namespace ExcluiDadosDuplicados
 
         private void AdicionarDados()
         {
-            //Se o protocolo já estiver adicionado, não incluir o mesmo.
+            //Se o dado já estiver adicionado, não incluir o mesmo.
             for (int i = 0; i < lvDados.Items.Count; i++)
                 if (lvDados.Items[i].Text == txtProtocolo.Text)
                     return;
 
             lvDados.Items.Add(txtProtocolo.Text);
-            lbQuantidade.Text = "Contém " + lvDados.Items.Count + " protocolos.";
+            lbQuantidade.Text = "Contém " + lvDados.Items.Count + " dados.";
 
             btnProcessar.Enabled = lvDados.Items.Count > 0;
 
