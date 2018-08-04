@@ -10,5 +10,5 @@ em cascata.
    
   ## Frameworks utilizados:<br/>
   - Dapper para acesso a dados.<br/>
-  - Microsoft.Extensions.Configurations(.Json) para ler o arquivo json e encontrar a string de conexão com o banco de dados.<br/>
+  - Microsoft.Extensions.Configuration(.Json) para ler o arquivo json e encontrar a string de conexão com o banco de dados.<br/>
   - Unity para configurar e resolver as dependências.<br/>
