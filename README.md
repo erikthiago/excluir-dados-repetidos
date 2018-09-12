@@ -12,3 +12,8 @@ em cascata.
   - Dapper para acesso a dados.<br/>
   - Microsoft.Extensions.Configuration(.Json) para ler o arquivo json e encontrar a string de conexão com o banco de dados.<br/>
   - Unity para configurar e resolver as dependências.<br/>
+
+## Referências
+* [Dapper](http://dapper-tutorial.net/dapper) - Documentação do Dapper
+* [Tutorial](http://developerpublish.com/dapper-net-guide-delete-record/) - Como fazer deletes no banco usando Dapper
+* [Tutorial 2](http://netcoders.com.br/acesso-a-dados-com-dapper-net/) - Como fazer selects no bando usando Dapper
