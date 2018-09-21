@@ -16,4 +16,4 @@ em cascata.
 ## Referências
 * [Dapper](http://dapper-tutorial.net/dapper) - Documentação do Dapper
 * [Tutorial](http://developerpublish.com/dapper-net-guide-delete-record/) - Como fazer deletes no banco usando Dapper
-* [Tutorial 2](http://netcoders.com.br/acesso-a-dados-com-dapper-net/) - Como fazer selects no bando usando Dapper
+* [Tutorial 2](http://netcoders.com.br/acesso-a-dados-com-dapper-net/) - Como fazer selects no banco usando Dapper
